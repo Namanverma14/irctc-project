@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# React
+frontend/node_modules/
+frontend/.env
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
