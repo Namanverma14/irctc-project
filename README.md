@@ -26,10 +26,10 @@ This project is a railway management system similar to IRCTC, where users can ch
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   `git clone` https://github.com/your-username/irctc-project.git
+   `git clone https://github.com/your-username/irctc-project.git`
    `cd irctc-project/backend`
 2. Install dependencies: `npm install`
-3. Create a `.env` file in the backend folder and add the following environment variables:
+3. Create a `.env` file in the backend folder and add the following environment variables:</br>
     DB_HOST=localhost </br>
     DB_USER=root </br>
     DB_PASSWORD=yourpassword </br>
